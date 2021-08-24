@@ -2,7 +2,7 @@
 package entities;
 
 
-public class cliente {
+public class usuario {
    private String usuario;
    private String senha; 
 
